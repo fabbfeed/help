@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
 url: https://help.fabbfeed.com
-enforce_ssl: help.fabbfeed.com
+enforce_ssl: https://help.fabbfeed.com
