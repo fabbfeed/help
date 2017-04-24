@@ -1,0 +1,22 @@
+# Privacy Policy
+Privacy is important. We respect yours.
+
+## 1. General Information
+This privacy document sets out how we handle the information we collect when you use our services. How we collect, use, disclose and protect information. For example when you visit and use our sites, services, mobile applications, products ('FabbFeed Services') provided by FabbFeed. Please be sure you have read this document carefully.
+
+## 2. Data Security
+To protect data transmitted to and from our Site we use encryption (HTTPS/TLS). FabbFeed can't guarantee the absolute security of this data. You use service at your own risk, and you are responsible for taking reasonable measures to secure your data or at least parts of your data.
+
+## 3. Cookie Usage
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. FabbFeed uses cookies to help FabbFeed identify and track visitors, their usage of FabbFeed websites, and their website access preferences. FabbFeed visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FabbFeed’s websites, with the drawback that certain features of FabbFeed’s websites may not function properly without the aid of cookies.
+
+## 4. Ads
+Ads appearing on any FabbFeed websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by FabbFeed and does not cover the use of cookies by any advertisers.
+
+## 5. Children
+FabbFeed Services are intended for general audiences and are not directed to children under 13. We don’t knowingly collect personal information from children under 13. If we learn that a child under 13 has provided us with personal information, we take steps to remove such information.
+
+## 6. Contact information:
+General inquiries: reachout@fabbfeed.com
+Press inquiries: press@fabbfeed.com
+Legal inquiries: legal@fabbfeed.com
